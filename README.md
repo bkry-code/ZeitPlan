@@ -6,7 +6,7 @@ Especially if you tend to procrastinate or regularly loose track of the importan
 
 ## Preview
 
-![Preview](big-preview.gif)
+![Preview](preview.gif)
 
 ## Installation
 
