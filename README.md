@@ -6,4 +6,4 @@ Especially if you tend to procrastinate or regularly loose track of the importan
 
 ## Installation
 
-Simply put the zeitplan.widget in your Übersicht widget folder. If you want to use a different calendar name, edit `line 1` in the `main.js` file and replace `Zeitplan` with your calendar name.
+Simply put the folder `zeitplan.widget` in your Übersicht widget folder. If you want to use a different calendar name, edit `line 1` in the `main.js` file and replace `Zeitplan` with your calendar name.
