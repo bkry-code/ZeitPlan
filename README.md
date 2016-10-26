@@ -1,4 +1,4 @@
-# Zeitplan
+# Zeitplan, an [Übersicht](http://tracesof.net/uebersicht/) widget
 
 Always keep an eye on the passing time and view the events of a specific calendar in an unobtrusive, yet always visible way.
 
