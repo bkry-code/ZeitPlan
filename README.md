@@ -4,4 +4,6 @@ Always keep an eye on the passing time and view the events of a specific calenda
 
 Especially if you tend to procrastinate or regularly loose track of the important projects, this works wonders.
 
-You can define your own calendar name in the main.js file. By default a calendar called "Zeitplan" will be used.
+## Installation
+
+Simply put the zeitplan.widget in your Übersicht widget folder. If you want to use a different calendar name, edit `line 1` in the `main.js` file and replace `Zeitplan` with your calendar name.
